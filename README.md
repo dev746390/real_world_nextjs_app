@@ -3,11 +3,6 @@
 Tired of next.js toy examples that cannot be used in real, complex, business
 projects? This is for you.
 
-There's also an [advanced real world Nextjs app][14], which is a fairly more
-complex version of this app. If you are looking for a starter kit that is not
-just the barebones for a real world app, then I highly recommend you to check
-it out.
-
 ## What's inside:
 
 - A custom server with compression. After build, app scores on [lighthouse][1]:
